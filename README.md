@@ -59,9 +59,9 @@ Analista de datos con experiencia en extracción, transformación y visualizaci�
 
 <div align="center">
 
-![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nobAng3l&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nobAng3l&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobAng3l&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobAng3l&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6)
 
 </div>
 
