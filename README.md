@@ -4,7 +4,7 @@
 
 ### Data Analyst | Business Intelligence | SQL Server · Python · Excel
 
-![Profile views](https://visitcount.itsvg.in/api?id=nobAngIi&icon=0&color=1)
+![Profile views](https://komarev.com/ghpvc/?username=nobAng3l&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -59,9 +59,9 @@ Analista de datos con experiencia en extracción, transformación y visualizaci�
 
 <div align="center">
 
-![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nobAngIi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nobAng3l&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobAngIi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobAng3l&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -71,8 +71,8 @@ Analista de datos con experiencia en extracción, transformación y visualizaci�
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 📈 [Trading Pro](https://github.com/nobAngIi) | Sistema de análisis y trading | Python · Pandas |
-| 💰 [Condonación Pago Colas](https://github.com/nobAngIi) | Análisis y automatización de cartera | SQL · Python · Excel |
+| 📈 [Trading Pro](https://github.com/nobAng3l/TradingPro) | Sistema de análisis y trading | Python · Pandas |
+| 💰 [Condonación Pago Colas](https://github.com/nobAng3l/condonacion-pagos) | Análisis y automatización de cartera | SQL · Python · Excel |
 
 ---
 
